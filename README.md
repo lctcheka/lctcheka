@@ -90,7 +90,7 @@ Foco meus estudos na construção de aplicações bem estruturadas, resolução 
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophies.vercel.app/?username=lctcheka&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=lctcheka&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&exclude=stars,followers,issues,pullrequest,reviews" alt="GitHub Trophies" />
 
   <br/><br/>
 
