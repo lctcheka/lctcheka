@@ -86,8 +86,7 @@ Foco meus estudos na construção de aplicações bem estruturadas, resolução 
 
 ---
 
-### 📊 Estatísticas & Desempenho
-
+<!-- 📊 Estatísticas & Desempenho -->
 <div align="center">
 
   <!-- GitHub Trophies -->
@@ -95,20 +94,20 @@ Foco meus estudos na construção de aplicações bem estruturadas, resolução 
 
   <br/><br/>
 
-  <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lctcheka&show_icons=true&theme=slate&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&icon_color=14b8a6&border_color=334155&hide_border=false" alt="GitHub Stats" />
+  <!-- Stats & Top Languages (URLs Corrigidas) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lctcheka&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lctcheka&layout=compact&theme=slate&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&border_color=334155&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lctcheka&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lctcheka&theme=slate&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&border=334155" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lctcheka&theme=dark&border=334155" alt="GitHub Streak" />
   
   <br/><br/>
 
-  <!-- Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lctcheka&theme=react-dark&bg_color=0f172a&color=14b8a6&line=14b8a6&point=5eead4&area=true&hide_border=true" alt="Activity Graph" />
+  <!-- Activity Graph (URL Corrigida) -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lctcheka&theme=react-dark" alt="Activity Graph" />
 
 </div>
 
