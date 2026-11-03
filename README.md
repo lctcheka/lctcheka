@@ -94,20 +94,19 @@ Foco meus estudos na construção de aplicações bem estruturadas, resolução 
 
   <br/><br/>
 
-  <!-- Stats & Top Languages (URLs Corrigidas) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lctcheka&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lctcheka&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <!-- Stats Nativos & Estáveis (Shields.io) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/lctcheka?label=Seguidores&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Followers"/>
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/lctcheka?label=Stars%20Totais&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Stars"/>
+    &nbsp;
+    
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Mantido pois está funcionando perfeitamente) -->
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lctcheka&theme=dark&border=334155" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <!-- Activity Graph (URL Corrigida) -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lctcheka&theme=react-dark" alt="Activity Graph" />
 
 </div>
 
